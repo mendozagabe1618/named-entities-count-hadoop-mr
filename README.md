@@ -35,6 +35,9 @@ optional arguments:
 ```
 
 -c has priority, meaning that if set, the directory will be cleaning before anything else
+
 -k and -m go hand in hand. search keywords and max results    
+
 defaults are "computer science" and 3, respectively
+
 -s is cool in that if you already downloaded documents with -m and -k you can, and/or packaged a jar through indirect calls to sbt package through the script, you can skip those parts so as to SKIP forward.
