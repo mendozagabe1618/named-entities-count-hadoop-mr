@@ -1,0 +1,28 @@
+
+
+REPO:
+
+git clone https://mendozagabe1618@bitbucket.org/mendozagabe1618/hw2.git && cd hw2
+
+#Vyc$m4&32wuu4iF8zppz64)
+
+
+scp libscriptdefs.py  hue@157.55.212.239:~/hw2
+
+UIC-Hadoop-Hue
+
+
+TODO:
+hadoop script args
+
+
+
+
+scp -r pylib/hadoop.py  hue@157.55.212.239:~/hw2/pylib/hadoop.py
+
+
+yarn logs -applicationId application_1475877798910_0044
+
+
+Quantum information science and complex quantum systems
+http://arxiv.org/pdf/quant-ph/0210005v1

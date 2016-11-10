@@ -1,0 +1,44 @@
+// SOURCE: http://www.augmentedintel.com/wordpress/index.php/tag/named-entity-recognition/
+
+From: Amir Soofi
+
+Sent: Thursday, December 06, 2012 2:37 AM
+
+To: Aaron Macarthur; Hugo Cruz
+
+Cc: Donald Krapohl
+
+Subject: RE: Language Comparison
+
+
+
+Hugo,
+
+
+
+FYI, Rick Marshall unofficially approved a 3-day trip for one person from the Enterprise team down to Jacksonville, FL to assist in the catalog reinstall.
+
+
+
+I’ll be placing it in the travel portal soon for the official process, so that the option becomes officially available to us.
+
+
+
+I think together we’ll be able to push through the environment differences better in person than over the phone.
+
+
+
+Let us know whether your site can even accommodate a visitor, and when you’d like to exercise this option.
+
+
+
+Respectfully,
+
+
+
+Amir Soofi
+
+
+
+Principal Software Engineer, Enterprise
+

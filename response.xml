@@ -1,0 +1,97 @@
+<!-- 3 -->
+
+<!-- None --> <?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3Dall%3Acomputer%20science%26id_list%3D%26start%3D0%26max_results%3D3" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=all:computer science&amp;id_list=&amp;start=0&amp;max_results=3</title>
+  <id>http://arxiv.org/api/ZCONqRXyFdrJVnlE5ODWCE4JRA0</id>
+  <updated>2016-10-09T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">225780</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">3</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/1310.7911v2</id>
+    <updated>2013-12-09T21:56:24Z</updated>
+    <published>2013-10-29T18:29:13Z</published>
+    <title>Compact manifolds with computable boundaries</title>
+    <summary>  We investigate conditions under which a co-computably enumerable closed set
+in a computable metric space is computable and prove that in each locally
+computable computable metric space each co-computably enumerable compact
+manifold with computable boundary is computable. In fact, we examine the notion
+of a semi-computable compact set and we prove a more general result: in any
+computable metric space each semi-computable compact manifold with computable
+boundary is computable. In particular, each semi-computable compact
+(boundaryless) manifold is computable.
+</summary>
+    <author>
+      <name>Zvonko Iljazovic</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">University of Zagreb</arxiv:affiliation>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.2168/LMCS-9(4:19)2013</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.2168/LMCS-9(4:19)2013" rel="related"/>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Logical Methods in Computer Science, Volume 9, Issue 4 (December
+  11, 2013) lmcs:891</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1310.7911v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1310.7911v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.LO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.LO" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1309.0717v2</id>
+    <updated>2013-09-16T15:13:26Z</updated>
+    <published>2013-09-03T15:08:39Z</published>
+    <title>A Polynomial Translation of pi-calculus FCPs to Safe Petri Nets</title>
+    <summary>  We develop a polynomial translation from finite control pi-calculus processes
+to safe low-level Petri nets. To our knowledge, this is the first such
+translation. It is natural in that there is a close correspondence between the
+control flows, enjoys a bisimulation result, and is suitable for practical
+model checking.
+</summary>
+    <author>
+      <name>Victor Khomenko</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">School of Computing Science, Newcastle University</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Roland Meyer</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Department of Computer Science, University of Kaiserslautern</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Reiner Hüchting</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Department of Computer Science, University of Kaiserslautern</arxiv:affiliation>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.2168/LMCS-9(3:18)2013</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.2168/LMCS-9(3:18)2013" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">To appear in special issue on best papers of CONCUR'12 of Logical
+  Methods in Computer Science</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Logical Methods in Computer Science, Volume 9, Issue 3 (September
+  17, 2013) lmcs:932</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1309.0717v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1309.0717v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.LO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LO" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0907.3804v3</id>
+    <updated>2009-07-31T11:37:46Z</updated>
+    <published>2009-07-22T09:17:30Z</published>
+    <title>Decidability of higher-order matching</title>
+    <summary>  We show that the higher-order matching problem is decidable using a
+game-theoretic argument.
+</summary>
+    <author>
+      <name>Colin Stirling</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.2168/LMCS-5(3:2)2009</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.2168/LMCS-5(3:2)2009" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">appears in LMCS (Logical Methods in Computer Science)</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Logical Methods in Computer Science, Volume 5, Issue 3 (July 30,
+  2009) lmcs:757</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/0907.3804v3" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0907.3804v3" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.LO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="F.4.1" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>

@@ -1,0 +1,19 @@
+
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+version = '1.0'
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
+
+
+//Get dependencies from Maven central repository
+repositories {
+    mavenCentral()
+}
+
+//Project dependencies
+dependencies {
+    compile 'ch.qos.logback:logback-classic:1.1.2'
+}
